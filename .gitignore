@@ -1,3 +1,5 @@
 server
 .git
+*.exe
 .gitignore
+./storage/
